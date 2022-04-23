@@ -1,7 +1,7 @@
-*git clone https://github.com/H4CK-M4N/XTRACT
+* git clone https://github.com/H4CK-M4N/XTRACT
 
-*cd XTRACT
+* cd XTRACT
 
-*git pull
+* git pull
 
-*python proxtract.so
+* python proxtract.so
